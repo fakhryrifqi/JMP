@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">JMP</string>
+    <string name="menu">BIODATA</string>
+    <string name="nama">Nama:</string>
+    <string name="nama_lower">nama</string>
+    <string name="tlpn">No HP:</string>
+    <string name="tlpn_lower">no hp</string>
+    <string name="jk">Gender:</string>
+    <string name="jk_lower">gender</string>
+    <string name="jk_L">Laki - laki</string>
+    <string name="jk_P">Perempuan</string>
+    <string name="alamat">Alamat:</string>
+    <string name="alamat_lower">alamat</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="back">Kembali</string>
+    <string name="bio">BIODATA</string>
+    <string name="location">Get Location</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+</resources>
